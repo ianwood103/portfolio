@@ -15,12 +15,12 @@ export default function Home() {
               IAN WOOD
             </h1>
             <p className="text-secondary text-[36px] leading-[1] font-medium">
-              I'm a software engineer specializing in designing observable &
-              reliable systems in fast-paced environments.
+              I&apos;m a software engineer specializing in designing observable
+              &amp; reliable systems in fast-paced environments.
             </p>
             <p className="text-secondary mt-6 text-[36px] leading-[1] font-medium">
               I am always looking to build great things with great people. If
-              this sounds like you, let's connect.
+              this sounds like you, let&apos;s connect.
             </p>
           </div>
         </div>
@@ -78,6 +78,7 @@ export default function Home() {
               width={540}
               height={540}
               className="h-full w-full -rotate-4 transform object-contain"
+              unoptimized
             />
           </div>
         </div>
